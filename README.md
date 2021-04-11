@@ -1,1 +1,1 @@
-# aula_lavascript
+# aula_javascript
